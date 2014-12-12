@@ -1,0 +1,15 @@
+{
+  "name": "html2code",
+  "version": "0.1.0",
+  "description": "Beautify and convert html into code snippt.",
+  "main": "main.js",
+  "dependencies": {
+    "js-beautify": "^1.5.4"
+  },
+  "devDependencies": {},
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "author": "",
+  "license": "MIT"
+}
