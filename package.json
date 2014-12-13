@@ -1,8 +1,8 @@
 {
   "name": "html2code",
-  "version": "0.1.0",
+  "version": "0.1.3",
   "description": "Beautify and convert html into code snippt.",
-  "main": "main.js",
+  "bin": "./bin/html2code",
   "dependencies": {
     "js-beautify": "^1.5.4"
   },
@@ -10,6 +10,19 @@
   "scripts": {
     "test": "echo \"Error: no test specified\" && exit 1"
   },
-  "author": "",
-  "license": "MIT"
+  "author": "Minli Chen <bigrice20@gmail.com>",
+  "license": "MIT",
+  "repository": {
+    "type": "git",
+    "url": "https://github.com/kaze13/html2code"
+  },
+  "keywords": [
+    "html",
+    "tool",
+    "convert"
+  ],
+  "bugs": {
+    "url": "https://github.com/kaze13/html2code/issues"
+  },
+  "homepage": "https://github.com/kaze13/html2code"
 }
