@@ -1,6 +1,6 @@
 #Html2Code
 
-Html2Code is a tool that convert raw html into code snippet.
+Html2Code is a tool that convert raw mess html into beautifeid code snippet.
 
 like this:
 
